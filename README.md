@@ -415,3 +415,4 @@ root@MidPC:/home/student/Desktop#
 ![image](https://github.com/Akashbalakrishnan/PCA-Matrix-Addition-With-Unified-Memory/assets/119291768/2c3dda62-f79b-484f-be1b-28fc44dc07fe)
 
 ## Result:
+Thus Matrix addition with unified memory is done and its performance with nvprof is checked.
