@@ -357,7 +357,7 @@ int main(int argc, char **argv)
     return (0);
 }
 ```
-Output:
+## Output:
 ```
 root@MidPC:/home/student/Desktop# nvcc --version
 nvcc: NVIDIA (R) Cuda compiler driver
