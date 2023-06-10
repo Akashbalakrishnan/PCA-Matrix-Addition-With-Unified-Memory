@@ -412,4 +412,6 @@ No API activities were profiled.
 root@MidPC:/home/student/Desktop# ^C
 root@MidPC:/home/student/Desktop#
 ```
+![image](https://github.com/Akashbalakrishnan/PCA-Matrix-Addition-With-Unified-Memory/assets/119291768/2c3dda62-f79b-484f-be1b-28fc44dc07fe)
+
 ## Result:
